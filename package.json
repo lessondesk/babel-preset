@@ -1,6 +1,6 @@
 {
   "name": "@lessondesk/babel-preset",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "Babel presets for Lesson Desk",
   "main": "index.js",
   "contributors": [
