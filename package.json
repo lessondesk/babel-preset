@@ -1,0 +1,28 @@
+{
+  "name": "@lessondesk/babel-preset",
+  "version": "3.0.0",
+  "description": "Babel presets for Lesson Desk",
+  "main": "index.js",
+  "contributors": [
+    "Tiaan du Plessis (https://tiaan.dev)"
+  ],
+  "repository": "https://github.com/lessondesk/babel-preset.git",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/plugin-proposal-class-properties": "^7.5.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.1",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-transform-react-constant-elements": "^7.5.0",
+    "@babel/plugin-transform-runtime": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/runtime": "^7.5.1",
+    "babel-plugin-react-require": "^3.1.1",
+    "babel-plugin-transform-react-remove-prop-types": "0.4.24",
+    "babel-plugin-transform-remove-console": "^6.9.4"
+  }
+}
